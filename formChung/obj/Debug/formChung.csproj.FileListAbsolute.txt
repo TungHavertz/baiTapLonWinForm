@@ -28,3 +28,13 @@ D:\nam2HK2(2023-2024)\lapTrinhWindow\baiTapLon\formChung\formChung\obj\Debug\for
 D:\nam2HK2(2023-2024)\lapTrinhWindow\baiTapLon\formChung\formChung\obj\Debug\formChung.csproj.CoreCompileInputs.cache
 D:\nam2HK2(2023-2024)\lapTrinhWindow\baiTapLon\formChung\formChung\obj\Debug\formChung.exe
 D:\nam2HK2(2023-2024)\lapTrinhWindow\baiTapLon\formChung\formChung\obj\Debug\formChung.pdb
+D:\nam2HK2(2023-2024)\lapTrinhWindow\baiTapNho\formChung\bin\Debug\formChung.exe.config
+D:\nam2HK2(2023-2024)\lapTrinhWindow\baiTapNho\formChung\bin\Debug\formChung.exe
+D:\nam2HK2(2023-2024)\lapTrinhWindow\baiTapNho\formChung\bin\Debug\formChung.pdb
+D:\nam2HK2(2023-2024)\lapTrinhWindow\baiTapNho\formChung\obj\Debug\formChung.csproj.AssemblyReference.cache
+D:\nam2HK2(2023-2024)\lapTrinhWindow\baiTapNho\formChung\obj\Debug\formChung.Form1.resources
+D:\nam2HK2(2023-2024)\lapTrinhWindow\baiTapNho\formChung\obj\Debug\formChung.Properties.Resources.resources
+D:\nam2HK2(2023-2024)\lapTrinhWindow\baiTapNho\formChung\obj\Debug\formChung.csproj.GenerateResource.cache
+D:\nam2HK2(2023-2024)\lapTrinhWindow\baiTapNho\formChung\obj\Debug\formChung.csproj.CoreCompileInputs.cache
+D:\nam2HK2(2023-2024)\lapTrinhWindow\baiTapNho\formChung\obj\Debug\formChung.exe
+D:\nam2HK2(2023-2024)\lapTrinhWindow\baiTapNho\formChung\obj\Debug\formChung.pdb
